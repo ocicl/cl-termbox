@@ -1,0 +1,10 @@
+* cl-termbox
+
+Termbox bindings for text guis
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cl-fui/cl-termbox.git   |
+| commit  | ac630f6  |
+| systems | cl-termbox |
+|---------+-------------------------------------------|
+
